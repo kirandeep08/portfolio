@@ -7,5 +7,5 @@ In the local setup environment choose preferred.Then click import site.
 Select Apache as the web server.Then, click Open Site which will open the wordpress website portfolio-clone.local in the browser. After this click WP Admin from the local server.
 Then enter the username and password in the wordpress admin panel.
 Access Details:username-kirandeep1901
-               password-Uzi0fy8
+               password-Uzi0fy8!
 
