@@ -1,0 +1,12 @@
+[Fri Sep 13 19:58:49.609786 2024] [fcgid:warn] [pid 13452:tid 1368] [client 127.0.0.1:54175] mod_fcgid: read timeout from pipe
+[Fri Sep 13 19:58:49.609786 2024] [fcgid:warn] [pid 13452:tid 1364] [client 127.0.0.1:54179] mod_fcgid: read timeout from pipe
+[Fri Sep 13 19:58:49.609786 2024] [core:error] [pid 13452:tid 1368] [client 127.0.0.1:54175] End of script output before headers: wp-cron.php
+[Fri Sep 13 19:58:49.609786 2024] [core:error] [pid 13452:tid 1364] [client 127.0.0.1:54179] End of script output before headers: wp-cron.php
+[Fri Sep 13 19:58:52.605842 2024] [fcgid:warn] [pid 13452:tid 1356] [client 127.0.0.1:54193] mod_fcgid: read timeout from pipe
+[Fri Sep 13 19:58:52.605842 2024] [core:error] [pid 13452:tid 1356] [client 127.0.0.1:54193] End of script output before headers: wp-cron.php
+[Fri Sep 13 19:59:00.671445 2024] [fcgid:warn] [pid 13452:tid 1352] [client 127.0.0.1:54205] mod_fcgid: read timeout from pipe
+[Fri Sep 13 19:59:00.671625 2024] [core:error] [pid 13452:tid 1352] [client 127.0.0.1:54205] End of script output before headers: index.php
+[Fri Sep 13 19:59:16.748704 2024] [fcgid:warn] [pid 13452:tid 1348] [client 127.0.0.1:54219] mod_fcgid: read timeout from pipe
+[Fri Sep 13 19:59:16.748704 2024] [core:error] [pid 13452:tid 1348] [client 127.0.0.1:54219] End of script output before headers: index.php
+[Fri Sep 13 20:00:02.630881 2024] [fcgid:warn] [pid 13452:tid 1348] [client 127.0.0.1:54247] mod_fcgid: read timeout from pipe
+[Fri Sep 13 20:00:02.630881 2024] [core:error] [pid 13452:tid 1348] [client 127.0.0.1:54247] End of script output before headers: wp-cron.php
